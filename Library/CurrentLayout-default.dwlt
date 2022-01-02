@@ -122,7 +122,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 1569
+  controlID: 3183
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 1570
+  controlID: 3184
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 1571
+  controlID: 3185
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -397,9 +397,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: a43e0000
-      m_LastClickedID: 16036
-      m_ExpandedIDs: 4efbffffbc3e0000
+      m_SelectedIDs: e07e0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 70fbffffbc3e0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -459,9 +459,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 15.320951, y: -1.7885585, z: -3.0281062}
+    m_Target: {x: -7.66097, y: -3.5463886, z: -3.1362705}
     speed: 2
-    m_Value: {x: 15.320951, y: -1.7885585, z: -3.0281062}
+    m_Value: {x: -7.66097, y: -3.5463886, z: -3.1362705}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -508,13 +508,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.041273937, y: 0.9579969, z: -0.18057768, w: -0.2189589}
+    m_Target: {x: 0.0003322985, y: 0.9826994, z: -0.18523417, w: 0.0017694393}
     speed: 2
-    m_Value: {x: -0.041273672, y: 0.95799077, z: -0.18057652, w: -0.21895748}
+    m_Value: {x: 0.00033229848, y: 0.9826994, z: -0.18523417, w: 0.0017694393}
   m_Size:
-    m_Target: 10.245518
+    m_Target: 22.275923
     speed: 2
-    m_Value: 10.245518
+    m_Value: 22.275923
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -602,22 +602,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Customizable Skybox
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Customizable Skybox
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Volumes/SamsungSSD/Development/GameDevelopment/RocketGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 723f0000
-    m_LastClickedID: 16242
-    m_ExpandedIDs: 00000000723f000000ca9a3b
+    scrollPos: {x: 0, y: 58}
+    m_SelectedIDs: de7e0000
+    m_LastClickedID: 32478
+    m_ExpandedIDs: 00000000723f000056400000da7e0000de7e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -672,7 +672,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300004a4d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -758,7 +758,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 11
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_LockTracker:
     m_IsLocked: 0
