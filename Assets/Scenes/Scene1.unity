@@ -335,7 +335,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 56
   m_CollisionDetection: 0
 --- !u!4 &1137906184 stripped
 Transform:
@@ -449,8 +449,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.52343, y: 0.52343, z: 0.52343}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 3.4328883, y: 6.1275673, z: 3.2973726}
+  m_Center: {x: -0.10183884, y: 0.7621338, z: 0.0070317835}
 --- !u!1001 &1440157693
 PrefabInstance:
   m_ObjectHideFlags: 0
